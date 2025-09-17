@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+env/
+*.DS_Store
+
+# VS Code settings
+.vscode/
+
+# MacOS metadata
+.DS_Store
+
+# Ignore build outputs
+*.log
+*.aux
+*.out
+
+# Custom ignores
+*.pdf
+*.html
